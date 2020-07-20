@@ -1,0 +1,47 @@
+
+<html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Welcome to Bird Encyclopedia</title>
+    <meta name="generator" content="Haroopad 0.13.1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style type="text/css">
+    main{
+    text-align: center; /*让div内部文字居中*/
+    background-color: #fff;
+    border-radius: 20px;
+    width: 300px;
+    height: 350px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.hg{text-indent:2em}   
+</style>
+  </head>
+  <body class="markdown haroopad"  style="width:500px; margin:0 auto " background="#FF0000">
+    <div class="main">
+        <h1>Welcome to Bird Encyclopedia.html</h1>
+        <p class="hg">Both humans and birds are important parts of the biosphere in nature. Between species, there are only differences in the position of the ecological chain, and there is no distinction between high and low. The same is life and should be equal. More people say that the existence of birds can only be divided into "interesting value" and "no use value". This is actually a arrogant and disrespectful life. People and birds should live in harmony and share this planet together. To appreciate the beauty of birds, to protect birds.</p>
+        <!-- <img src="image/IMG_0022.PNG"  width="300" height="300*667/375"> -->
+        <p class="hg"> Our app provides the following services：</p>
+        <p class="hg">1.Various bird information</p>
+        <p class="hg">Provide the most complete bird information for users to query</p>
+        <img src="image/IMG_0022.PNG"  width="300" height="300*667/375">
+        <p class="hg">2.Provide search function</p>
+        <p class="hg">Give users the best experience and make it easy for users to query bird knowledge</p>
+        <img src="image/IMG_0023.PNG"  width="300" height="300*667/375">
+        <P class="hg">3.Classified information</P>Provide the most comprehensive classification information, let users know the division of various types of bird in time</p>
+        <img src="image/IMG_0024.PNG"  width="300" height="300*667/375">
+        <p>Dear customers:</p>
+        <p> If you have any questions, you can leave a message or email me</p>
+        <p>I will reply you as soon as possible</p>
+        <p>email: <a href="mailto:harvey.makit@gmail.com">harvey.makit@gmail.com</a></p>
+        <p>thank you very much!</p>
+    </div>
+ 
+  </body>
+  
+  </body></html>
